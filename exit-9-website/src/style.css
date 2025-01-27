@@ -1,0 +1,29 @@
+* {
+    /* border: 1px solid red; */
+    text-align: center;
+}
+
+/* Navigation Section */
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.top li .logo {
+    text-align: left;
+}
+
+.top li {
+    padding: 10px;
+}
+
+ul.top {
+    text-align: right;
+}
+
+ul.bottom {
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+}
+
